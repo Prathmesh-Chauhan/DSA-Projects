@@ -1,0 +1,19 @@
+.array-container {
+  position: absolute;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 50px;
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.button-section{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 5px;
+}
